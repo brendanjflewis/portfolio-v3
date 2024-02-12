@@ -13,7 +13,7 @@ export default function About() {
             <div className="flex lg:flex-row sm:flex-col md:gap-[50px] sm:gap-[20px]">
                 <div className="flex flex-col gap-[10px]">
                     <p className="text-slate-100 max-w-[80ch]">
-                        Hi! My name is Brendan and I enjoy making usable and sensible products for people. In 2020, the pandemic offered a lot of time to learn something new, so I started learning to code as a hobby. In 2021, I doubled down on this journey, took a full-stack web development through University of Richmond, and graduated in 2022. In 2022, I landed my first job at WayPath Consulting as Developer and Consultant. Since then, I've been growing and learning through making solo apps, taking courses, and on-the-job learning.
+                        Hi! My name is Brendan and I enjoy making usable and sensible products for people. In 2020, the pandemic offered a lot of time to learn something new, so I started learning to code as a hobby. In 2021, I doubled down on this journey, took a full-stack web development through University of Richmond, and graduated in 2022. In 2022, I landed my first job at WayPath Consulting as Developer and Consultant. Since then, I have been growing and learning through making solo apps, taking courses, and on-the-job learning.
                     </p>
                     <p className="text-slate-100 max-w-[80ch]">
                         In my free time I hang out with my partner and friends, play a lot of games, and consume an unhealthy amount of the NBA. I also (shocker) code a lot! Now that this new portfolio is up, Im back to sharpening my fundamentals. I am also learning the Godot Engine and using it to create a small game project!
