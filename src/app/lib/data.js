@@ -48,7 +48,7 @@ export const projects = [
     },
     {
         title: "Pantry Hacker",
-        description: "Greg's List is a website built for a community to post and share job, gig, and services opportunities. This a full-stack MERN project completed during my time at UofR.",
+        description: "Pantry Hacker is a simple search tool for quick recipe information. This is a full-stack project completed during my time at UofR.",
         projectType: "Group project",
         tags: ["JavaScript", "Handlebars.js", "Node.js", "CSS", "MySQL", "Express"],
         image: pantryHackerImage,
