@@ -16,7 +16,7 @@ export default function About() {
                         Hi! My name is Brendan and I enjoy making usable and sensible products for people. I started learning to code in 2020 during the pandemic as a hobby because it was always a profession I was interested and there really was not a whole to do besides play games and zoom call friends. In 2021, I doubled down on this journey, took a full-stack web development through University of Richmond, and graduated in 2022!
                     </p>
                     <p className="text-slate-100 max-w-[80ch]">
-                        In my free time I hang out with my partner and friends, play a lot of games, and consume an unhealthy of the NBA. I also (shocker) code a lot! Now that this new portfolio is up, Im back to sharpening my fundamentals. I am also learning the Godot Engine and using it to create a small game project!
+                        In my free time I hang out with my partner and friends, play a lot of games, and consume an unhealthy amount of the NBA. I also (shocker) code a lot! Now that this new portfolio is up, Im back to sharpening my fundamentals. I am also learning the Godot Engine and using it to create a small game project!
                     </p>
                     <p className="text-slate-100">Some recent technologies I have worked with:</p>
                     <div>
