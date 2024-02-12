@@ -13,22 +13,22 @@ export default function About() {
             <div className="flex lg:flex-row sm:flex-col md:gap-[50px] sm:gap-[20px]">
                 <div className="flex flex-col gap-[10px]">
                     <p className="text-slate-100 max-w-[80ch]">
-                        Hi! I'm Brendan and I enjoy making usable and sensible products for people. I started learning to code in 2020 during the pandemic as a hobby because there wasn't a whole lot to do besides play games and zoom with friends. In 2021, I doubled down on this journey, took a full-stack web development through University of Richmond, and graduated in 2022!
+                        Hi! My name is Brendan and I enjoy making usable and sensible products for people. I started learning to code in 2020 during the pandemic as a hobby because it was always a profession I was interested and there really was not a whole to do besides play games and zoom call friends. In 2021, I doubled down on this journey, took a full-stack web development through University of Richmond, and graduated in 2022!
                     </p>
                     <p className="text-slate-100 max-w-[80ch]">
-                        In my free time I hang out with my partner and friends, play a lot of games, and consume an unhealthy of the NBA. I also (shocker) code a lot! Now that this new portfolio is up, I'm back to sharpening my fundamentals. I'm also learning the Godot Engine and using it to create a small game project!
+                        In my free time I hang out with my partner and friends, play a lot of games, and consume an unhealthy of the NBA. I also (shocker) code a lot! Now that this new portfolio is up, Im back to sharpening my fundamentals. I am also learning the Godot Engine and using it to create a small game project!
                     </p>
-                    <p className="text-slate-100">Some recent technologies I've worked with:</p>
+                    <p className="text-slate-100">Some recent technologies I have worked with:</p>
                     <div>
                         <ul className="text-slate-400 text-sm list-none grid grid-cols-2 ">
-                            <li class="first-letter:text-[#87D0E0]">- JavaScript</li>
-                            <li class="first-letter:text-[#87D0E0]">- MongoDB</li>
-                            <li class="first-letter:text-[#87D0E0]">- C++</li>
-                            <li class="first-letter:text-[#87D0E0]">- SQL</li>
-                            <li class="first-letter:text-[#87D0E0]">- React</li>
-                            <li class="first-letter:text-[#87D0E0]">- Wordpress</li>
-                            <li class="first-letter:text-[#87D0E0]">- Unreal Engine 5</li>
-                            <li class="first-letter:text-[#87D0E0]">- Godot Enginge</li>
+                            <li className="first-letter:text-[#87D0E0]">- JavaScript</li>
+                            <li className="first-letter:text-[#87D0E0]">- MongoDB</li>
+                            <li className="first-letter:text-[#87D0E0]">- C++</li>
+                            <li className="first-letter:text-[#87D0E0]">- SQL</li>
+                            <li className="first-letter:text-[#87D0E0]">- React</li>
+                            <li className="first-letter:text-[#87D0E0]">- Wordpress</li>
+                            <li className="first-letter:text-[#87D0E0]">- Unreal Engine 5</li>
+                            <li className="first-letter:text-[#87D0E0]">- Godot Enginge</li>
                         </ul>
                     </div>
                 </div>
