@@ -11,10 +11,17 @@ export default function Experience() {
                 <div className="flex md:flex-row sm:flex-col gap-2 md:items-center text-slate-100">
                     <p>Associate Software Developer and Consultant</p>
                     <p className="text-slate-300 text-sm">| WayPath Consulting</p>
-                    <p className="text-slate-300 text-sm">| Jul. 2022 - Dec. 2023 </p>                    
+                    <p className="text-slate-300 text-sm">| Jul. 2022 - Dec. 2023 </p>
                 </div>
-                <div className="py-[10px]">
-                    <p className="text-slate-400 max-w-[80ch]">My role at WayPath was a dual role, software developer and consultant. I worked, communicated, and demoed projects with and for clients, ranging from other engineers and developers to marketing and company leadership. Technologies I worked with included a range of CMS, CRM, and CCM platforms with the usual web development tech of JavaScript, React, etc.</p>
+                <div className="flex flex-col py-[10px] gap-[10px]">
+                    <p className="text-slate-400 max-w-[80ch]">During my tenure at WayPath, I held a multifaceted position encompassing both software development and consulting responsibilities. At the core of my role was the seamless integration of technical expertise with effective communication and client engagement.
+                    </p>
+                    <p className="text-slate-400 max-w-[80ch]">
+                        I collaborated closely with diverse stakeholders, including engineers, developers, marketing teams, and company leadership, to understand their unique needs and deliver tailored solutions. This involved facilitating discussions, gathering requirements, and presenting demos to showcase project progress and functionality.
+                    </p>
+                    <p className="text-slate-400 max-w-[80ch]">
+                        My technical repertoire spanned a variety of platforms, including Content Management Systems (CMS), Customer Relationship Management (CRM), and Customer Communication Management (CCM) systems. Leveraging popular web development technologies such as JavaScript and React, I was heavily involved with the development and deployment of innovative solutions that drove client success and satisfaction.
+                    </p>
                 </div>
                 <div className="flex md:flex-row sm:flex-col md:gap-[15px] sm:gap-[5px] text-slate-400 py-[10px]">
                     <Link href="https://waypathconsulting.com/" target="_blank" className="group flex items-center gap-2">
@@ -50,7 +57,7 @@ export default function Experience() {
                 <Link href="https://docs.google.com/document/d/1buhDS-8ka3cuGDG_vTyRMpUmolVDVIwOnrE_GoRfpbc/edit?usp=sharing" target="_blank" className="flex items-center gap-2.5">
                     <h3 className="text-slate-100 group-hover:text-[#87D0E0] ease-in-out duration-200">View my resume</h3>
                     {/* <Image src={linkSVG} alt="Link Icon" className="h-4 w-4" /> */}
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"className="h-4 w-4 fill-slate-100 group-hover:fill-[#87D0E0] ease-in-out duration-200"><path d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className="h-4 w-4 fill-slate-100 group-hover:fill-[#87D0E0] ease-in-out duration-200"><path d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z" /></svg>
                 </Link>
             </div>
         </section>

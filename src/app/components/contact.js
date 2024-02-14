@@ -8,10 +8,9 @@ export default function Contact() {
             </div>
             <div className="flex flex-col text-slate-300">
                 <p>Interested in learning more?</p>
-                <p>Lets talk!</p>
             </div>
             <div className="flex py-[20px]">
-                <a href="mailto:brendanjflewis@icloud.com"><button type="button" className="text-[#87D0E0] hover:text-[#1b1b1b] border border-[#87D0E0] hover:border-[#1b1b1b] hover:bg-[#87D0E0] py-2 px-5 rounded-full">Hello!</button></a>
+                <a href="mailto:brendanjflewis@icloud.com"><button type="button" className="text-[#87D0E0] hover:text-[#1b1b1b] border border-[#87D0E0] hover:border-[#1b1b1b] hover:bg-[#87D0E0] py-2 px-5 rounded-full">Lets talk!</button></a>
             </div>
         </section>
     )
