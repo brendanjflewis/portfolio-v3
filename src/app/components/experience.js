@@ -9,7 +9,7 @@ export default function Experience() {
             </div>
             <div>
                 <div className="flex md:flex-row sm:flex-col gap-2 md:items-center text-slate-100">
-                    <p>Associate Software Developer and Consultant</p>
+                    <h3>Associate Software Developer and Consultant</h3>
                     <p className="text-slate-300 text-sm">| WayPath Consulting</p>
                     <p className="text-slate-300 text-sm">| Jul. 2022 - Dec. 2023 </p>
                 </div>
@@ -30,26 +30,26 @@ export default function Experience() {
                         {/* <Image src={linkSVG} alt="Link Icon" className="h-4 w-4" /> */}
                     </Link>
                     <Link href="https://iapp.org/" target="_blank" className="group flex items-center gap-2">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" className="h-3.5 w-3.5 fill-slate-400 group-hover:fill-[#87D0E0] ease-in-out duration-200"><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372 74 321 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z" /></svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" className="h-3.5 w-3.5 fill-slate-300 group-hover:fill-[#87D0E0] ease-in-out duration-200"><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372 74 321 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z" /></svg>
                         <h3 className="text-slate-400 text-sm group-hover:text-[#87D0E0] ease-in-out duration-200">IAPP</h3>
                         {/* <Image src={linkSVG} alt="Link Icon" className="h-4 w-4" /> */}
                     </Link>
                     <Link href="https://www.travelforteens.com/" target="_blank" className="group flex items-center gap-2">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" className="h-3.5 w-3.5 fill-slate-400 group-hover:fill-[#87D0E0] ease-in-out duration-200"><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372 74 321 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z" /></svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" className="h-3.5 w-3.5 fill-slate-300 group-hover:fill-[#87D0E0] ease-in-out duration-200"><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372 74 321 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z" /></svg>
                         <h3 className="text-slate-400 text-sm group-hover:text-[#87D0E0] ease-in-out duration-200">Travel for Teens</h3>
                         {/* <Image src={linkSVG} alt="Link Icon" className="h-4 w-4" /> */}
                     </Link>
                 </div>
                 <div className="flex pt-[10px]">
-                    <ul className="flex flex-wrap gap-2.5 text-sm text-[#87D0E0] group-hover:backdrop-brightness-125 py-[1px] rounded-xl ease-in-out duration-200">
-                        <li className='backdrop-brightness-125 px-[8px] py-[1px] rounded-xl'>ContentStack</li>
-                        <li className='backdrop-brightness-125 px-[8px] py-[1px] rounded-xl'>Brightspot</li>
-                        <li className='backdrop-brightness-125 px-[8px] py-[1px] rounded-xl'>React</li>
-                        <li className='backdrop-brightness-125 px-[8px] py-[1px] rounded-xl'>JavaScript</li>
-                        <li className='backdrop-brightness-125 px-[8px] py-[1px] rounded-xl'>CSS</li>
-                        <li className='backdrop-brightness-125 px-[8px] py-[1px] rounded-xl'>ChakraUI</li>
-                        <li className='backdrop-brightness-125 px-[8px] py-[1px] rounded-xl'>Wordpress</li>
-                        <li className='backdrop-brightness-125 px-[8px] py-[1px] rounded-xl'>Microsoft Dynamics</li>
+                    <ul className="flex flex-wrap gap-2.5 text-sm text-[#87D0E0] group-hover:bg-[#87D0E0] bg-opacity-10 py-[1px] rounded-xl ease-in-out duration-200">
+                        <li className='bg-[#87D0E0] bg-opacity-5 px-[8px] py-[1px] rounded-xl'>ContentStack</li>
+                        <li className='bg-[#87D0E0] bg-opacity-5 px-[8px] py-[1px] rounded-xl'>Brightspot</li>
+                        <li className='bg-[#87D0E0] bg-opacity-5 px-[8px] py-[1px] rounded-xl'>React</li>
+                        <li className='bg-[#87D0E0] bg-opacity-5 px-[8px] py-[1px] rounded-xl'>JavaScript</li>
+                        <li className='bg-[#87D0E0] bg-opacity-5 px-[8px] py-[1px] rounded-xl'>CSS</li>
+                        <li className='bg-[#87D0E0] bg-opacity-5 px-[8px] py-[1px] rounded-xl'>ChakraUI</li>
+                        <li className='bg-[#87D0E0] bg-opacity-5 px-[8px] py-[1px] rounded-xl'>Wordpress</li>
+                        <li className='bg-[#87D0E0] bg-opacity-5 px-[8px] py-[1px] rounded-xl'>Microsoft Dynamics</li>
                     </ul>
                 </div>
             </div>
