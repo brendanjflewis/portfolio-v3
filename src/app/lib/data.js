@@ -1,7 +1,7 @@
 import musicFinderImage from '../../../public/images/music-finder.jpg';
 import pantryHackerImage from '../../../public/images/pantry-hacker.jpg';
 import gregListImage from '../../../public/images/gregs-list.png';
-// Data for sections of app
+
 // Hash links for nav bar
 export const links = [
     {
@@ -64,4 +64,15 @@ export const projects = [
         imageAlt: "NavTag Image",
         url: "https://github.com/brendanjflewis/navtag",
     },
+]
+
+export const skills = [
+    { name: "JavaScript", },
+    { name: "MongoDB" },
+    { name: "C++" },
+    { name: "SQL" },
+    { name: "React" },
+    { name: "Wordpress" },
+    { name: "Unreal Engine 5" },
+    { name: "Godot Engine" },
 ]

@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import profilePic from '../../../public/images/profile-pic.jpg'
+import { skills } from '../lib/data'
 
 export default function About() {
     return (
@@ -23,15 +24,10 @@ export default function About() {
                     </p>
                     <p className="text-slate-400">Some recent technologies I have worked with:</p>
                     <div>
-                        <ul className="text-slate-400 text-sm list-none grid grid-cols-2 ">
-                            <li className="first-letter:text-[#87D0E0]">- JavaScript</li>
-                            <li className="first-letter:text-[#87D0E0]">- MongoDB</li>
-                            <li className="first-letter:text-[#87D0E0]">- C++</li>
-                            <li className="first-letter:text-[#87D0E0]">- SQL</li>
-                            <li className="first-letter:text-[#87D0E0]">- React</li>
-                            <li className="first-letter:text-[#87D0E0]">- Wordpress</li>
-                            <li className="first-letter:text-[#87D0E0]">- Unreal Engine 5</li>
-                            <li className="first-letter:text-[#87D0E0]">- Godot Enginge</li>
+                        <ul className="text-slate-400 text-sm list-none grid grid-cols-2">
+                            {skills.map((skill, index) => (
+                                <li key={index} className="first-letter:text-[#87D0E0]">- {skill.name}</li>
+                            ))}
                         </ul>
                     </div>
                 </div>
