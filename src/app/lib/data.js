@@ -35,7 +35,7 @@ export const projects = [
         tags: ["JavaScript", "Materialize CSS", "Apple Music API", "Ticketmaster API"],
         image: musicFinderImage,
         imageAlt: "Music Finder Image",
-        url: "https://github.com/mtlankenau/gregs-list",
+        url: "https://github.com/mtlankenau/music-finder",
     },
     {
         title: "Greg's List",
@@ -66,13 +66,16 @@ export const projects = [
     },
 ]
 
+// Skills
 export const skills = [
     { name: "JavaScript", },
     { name: "MongoDB" },
     { name: "C++" },
     { name: "SQL" },
+    { name: "Java"},
     { name: "React" },
     { name: "Wordpress" },
     { name: "Unreal Engine 5" },
-    { name: "Godot Engine" },
+    { name: "ContentStack"},
+    { name: "Godot Engine" }
 ]

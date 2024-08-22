@@ -14,13 +14,13 @@ export default function About() {
             <div className="flex lg:flex-row sm:flex-col md:gap-[50px] sm:gap-[20px]">
                 <div className="flex flex-col gap-[10px]">
                     <p className="text-slate-400 max-w-[80ch]">
-                        Hi! My name is Brendan, and I am passionate about creating intuitive, user-friendly products that enhance the user experience.
+                        Hi! My name is Brendan, and I am a developer passionate about creating engaging, intuitive, and user-friendly applications.
                     </p>
                     <p className="text-slate-400 max-w-[80ch]">
-                        In 2020, amidst the challenges of the pandemic, I seized the opportunity to delve into coding as a personal pursuit. By 2021, I decided to deepen my knowledge by enrolling in a full-stack web development program at the University of Richmond. Once I graduated in 2022, I transitioned into the professional realm, securing a role at WayPath Consulting as a Developer and Consultant. Since then, I have embraced a continuous growth mindset, honing my skills through independent projects, educational courses, and hands-on experience in the field.
+                        In 2020, amidst the challenges of the pandemic, I seized the opportunity to delve into coding as a personal pursuit. It was a ton of fun, but I wanted to take this field more seriously and take it to the next level. By 2021, I decided to deepen my knowledge by enrolling in a full-stack web development program at the University of Richmond. Once I graduated in 2022, I transitioned into the professional realm, securing a role at WayPath Consulting as a Developer and Consultant. However, I felt the need to further improve. This year, 2024, I enrolled at Western Governors University to pursue a Bachelor of Science in Computer Science. I have always embraced, and continue to embrace, a continuous growth mindset, honing my skills through independent projects, educational courses, and hands-on experience in the field to become the best developer I can be.
                     </p>
                     <p className="text-slate-400 max-w-[80ch]">
-                        In my free time, you can find me enjoying quality time with my partner and friends, playing or making games, and consuming too much of the NBA. Of course, I code a lot. With the launch of this new portfolio, I am back to sharpening my fundamentals while expanding my skill set. Currently, I am learning Godot Engine,  leveraging it to bring a creative game project.
+                        In my free time, you can find me hanging out with friends, playing video games, and consuming too much of the NBA. Of course, I code a lot. I am working on some solo projects and a team project, both web and game development. One of them, I hope to share very soon.
                     </p>
                     <p className="text-slate-400">Some recent technologies I have worked with:</p>
                     <div>
